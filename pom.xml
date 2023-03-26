@@ -20,6 +20,7 @@
     </parent>
 
     <properties>
+        <java.version>11</java.version>
         <jkube.version>1.9.1</jkube.version>
         <git-commit-id.version>5.0.0</git-commit-id.version>
         <logstash-logback-encoder.version>7.2</logstash-logback-encoder.version>
